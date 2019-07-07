@@ -65,7 +65,10 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  center_and_print # Replace this line if using custom print stuff
+  ui_print "*******************************"
+  ui_print " Oneplus 7 Pro Service Disabler"
+  ui_print "            jumpcom            "
+  ui_print "*******************************"
   unity_main # Don't change this line
 }
 
