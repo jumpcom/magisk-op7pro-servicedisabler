@@ -1,7 +1,7 @@
-id=UnityTemplate
-name=Unity (Un)Installer Template
-version=v4.2
-versionCode=29
-author=ahrion, zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612
+id=magisk-op7pro-servicedisabler
+name=Oneplus 7Pro Unnecessary Service Disabler
+version=v1.0.0
+versionCode=1000
+author=jumpcom
+description=Oneplus 7Pro Unnecessary Service Disabler
+support=
