@@ -65,10 +65,17 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print " Oneplus 7 Pro Service Disabler"
-  ui_print "            jumpcom            "
-  ui_print "*******************************"
+  ui_print ""
+  ui_print ""
+  ui_print "*******************************************"
+  ui_print "                                           "
+  ui_print " Oneplus 7Pro Unnecessary Service Disabler "
+  ui_print "                  Jumpcom                  "
+  ui_print "                                           "
+  ui_print "*******************************************"
+  ui_print "thank foobar66 for dss script"
+  ui_print ""
+  ui_print ""
   unity_main # Don't change this line
 }
 

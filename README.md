@@ -1,35 +1,19 @@
-<h1 align="center">Unity (Un)Installer Template</h1>
+# Oneplus 7Pro Unnecessary Service Disabler [![Magisk](https://img.shields.io/badge/Magisk-19%2B-00B39B.svg?style=flat-square)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v4.2-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-May 16, 2019-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-</div>
+## Information
+This module enables the native call recording feature on OxygenOS (and ROMs based on it).
 
-<div align="center">
-  <strong>Unity Installer allows 1 zip to work for multiple devices and root solutions. More details in the 
-    <a href="https://github.com/Zackptg5/Unity/wiki">wiki</a>.
-</div>
+## Changelog
+### v1.0
+- Initial release
 
-<div align="center">
-  <h3>
-    <a href="https://github.com/Zackptg5/Unity">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/Unity-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612">
-      XDA
-    </a>
-  </h3>
-</div>
+### v1.0.1
+- Fix some Installation Process
 
-## Compatibility
-- Magisk 18.0 +
-- All other root or rootless solutions (init.d support for boot scripts is required if not using Magisk or SuperSU. Try [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105))
+### v1.0.3
+- Fix some Installation Process
+
+## Links
+* [GitHub](https://github.com/Magisk-Modules-Repo/oosnativecallrecordingenabler)
+* [Support](https://forum.xda-developers.com/oneplus-5/themes/app-enable-call-recording-boot-t3634292)
+

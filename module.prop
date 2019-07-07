@@ -1,7 +1,7 @@
 id=magisk-op7pro-servicedisabler
 name=Oneplus 7Pro Unnecessary Service Disabler
-version=v1.0.0
-versionCode=1000
+version=v1.0.3
+versionCode=1003
 author=jumpcom
 description=Oneplus 7Pro Unnecessary Service Disabler
 support=
